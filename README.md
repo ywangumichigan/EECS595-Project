@@ -1,6 +1,6 @@
 # Beyond Fine-Tuning and Retrieval: Why RAG and SFT Don’t Solve Math
 
-This is the repo for the EECS 595 final project in Fall 2025.
+This is the repo for the EECS 595 final project in Fall 2025. Some files display as "invalid notebook" but the codes are working. 
 
 RAG_final.ipynb: The RAG implementation on SFT model
 ./Aliyun/sft: datasets, data processing and model evaluation (model itself is not included due to space limit)
